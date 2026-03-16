@@ -10,8 +10,9 @@ int main(){
     printf("Nome: Lana Ozeki ");  
     printf("RM: 569795 ");
     printf("Idade: 18 ");
-    printf("Nome: Mikaella Lucindo ")
-    printf("RM: 573775 ")
-    printf("Idade: 19 ")
+    printf("Nome: Mikaella Lucindo");
+    printf("RM: 573775 ");
+    printf("Idade: 19 ");
+    printf("Nome: Anna Cecilia ");
     return 0;
 }
