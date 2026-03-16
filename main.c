@@ -4,5 +4,6 @@ int main(){
     printf("Nome: Giulliana Brasolin ");
     printf("RM: 569381 ");
     printf("Idade: 23 ");
+    printf("Nome: Lara Alves ");
     return 0;
 }
