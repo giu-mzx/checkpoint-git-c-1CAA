@@ -9,6 +9,8 @@ int main(){
     printf("Idade: 18 ");
     printf("Nome: Lana Ozeki ");  
     printf("RM: 569795 ");
+    printf("Idade: 18 ");
+
 
     return 0;
 }
