@@ -6,5 +6,6 @@ int main(){
     printf("Idade: 23 ");
     printf("Nome: Lara Alves ");
     printf("RM: 573827 ");
+    printf("Idade: 18 ");
     return 0;
 }
