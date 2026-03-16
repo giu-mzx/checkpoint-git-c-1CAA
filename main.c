@@ -11,5 +11,7 @@ int main(){
     printf("RM: 569795 ");
     printf("Idade: 18 ");
     printf("Nome: Mikaella Lucindo ")
+    printf("RM: 573775 ")
+    printf("Idade: 19 ")
     return 0;
 }
