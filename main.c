@@ -7,5 +7,7 @@ int main(){
     printf("Nome: Lara Alves ");
     printf("RM: 573827 ");
     printf("Idade: 18 ");
+    printf("Nome: Lana Ozeki");  
+
     return 0;
 }
