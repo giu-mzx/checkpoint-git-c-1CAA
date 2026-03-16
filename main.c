@@ -14,5 +14,7 @@ int main(){
     printf("RM: 573775 ");
     printf("Idade: 19 ");
     printf("Nome: Anna Cecilia ");
+    printf("RM: 570955 ");
     return 0;
+
 }
